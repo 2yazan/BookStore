@@ -25,28 +25,28 @@ On the frontend, React powers an interactive and responsive interface, with Tail
 ## Screenshots
 
 ### Register Page
-![Register Page](screenshots/registerpage.jpeg)
+![Register Page](screenshots/RegisterPage.jpeg)
 
 ### Login Page
-![Login Page](screenshots/loginpage.jpeg)
+![Login Page](screenshots/LoginPage.jpeg)
 
 ### Home Page
-![Home Page](screenshots/homepage.jpeg)
+![Home Page](screenshots/HomePage.jpeg)
 
 ### Books Page
-![Books Page](screenshots/bookspage.jpeg)
+![Books Page](screenshots/BooksPage.jpeg)
 
 ### Book Page
-![Book Page](screenshots/bookpage.jpeg)
+![Book Page](screenshots/BookPage.jpeg)
 
 ### Categories Page
-![Categories Page](screenshots/categoriespage.jpeg)
+![Categories Page](screenshots/CategoriesPage.jpeg)
 
 ### Cart Page
-![Cart Page](screenshots/cartpage.jpeg)
+![Cart Page](screenshots/CartPage.jpeg)
 
 ### Tag Page
-![Tag Page](screenshots/tagpage.jpeg)
+![Tag Page](screenshots/TagPage.jpeg)
 
 
 ## License
